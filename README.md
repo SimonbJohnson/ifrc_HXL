@@ -6,12 +6,12 @@ IFRC GO data to download in HXL. For each download there are 3 links:
 |:--------|:------|
 |**CSV**| CSV link for use in spreadsheets and other applications |
 |**Edit recipe** | A link to the the HXL Proxy editor where you can adjust the recipe. This could be for filtering the data to a specific year or region |
-|**HXL Dash**| A link to the data preloaded into HXLDash. HXLDash is a fast way to generate and share visualisations of the data |
+|**HXL Dash**| A link to the data preloaded into HXLDash. HXLDash is a fast way to generate and share visualisations of the data. This visualition will auto update and IFRC GO is updated |
 
-
+All links are auto updating to the latest data.
 
 ## Appeals and DREFs
-
+HXL links for Appeals and DREF data
 
 | Data Name                    | Excel Download | Link to modify this file|
 |----------------------------|----------------|-------------------------|
