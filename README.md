@@ -6,7 +6,7 @@ IFRC GO data to download in HXL format. For each download there are 3 links:
 |:--------|:------|
 |**CSV**| CSV link for use in spreadsheets and other applications |
 |**Edit recipe** | A link to the the HXL Proxy editor where you can adjust the recipe. This could be for filtering the data to a specific year or region |
-|**HXL Dash**| A link to the data preloaded into HXLDash. HXLDash is a fast way to generate and share charts and maps of the data. This visualition will be auto updating to match IFRCO GO data |
+|**Launch HXL Dash**| A link to the data preloaded into HXLDash. HXLDash is a fast way to generate and share charts and maps of the data. This visualition will be auto updating to match IFRCO GO data |
 |**HXL Dash Example**| An example dashboard created with this data set. |
 
 All links are auto updating to the latest data.
