@@ -3,7 +3,7 @@
 IFRC GO data to download in HXL. For each download there are 3 links:
 
 |Link type|Purpose|
-|---------|-------|
+|:--------|:------|
 |**CSV**| CSV link for use in spreadsheets and other applications |
 |**Edit recipe** | A link to the the HXL Proxy editor where you can adjust the recipe. This could be for filtering the data to a specific year or region |
 |**HXL Dash**| A link to the data preloaded into HXLDash. HXLDash is a fast way to generate visualisations of the data |
