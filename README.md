@@ -1,6 +1,6 @@
 # HXL Data from IFRC GO
 
-IFRC GO data to download in HXL format. For each download there are 3 links:
+IFRC GO data to download in HXL format. For each download there can be up to 4 links:
 
 |Link type|Purpose|
 |:--------|:------|
